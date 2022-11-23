@@ -1,6 +1,6 @@
 <!doctype html>
 <title>Hello from Vishvas</title>
-<body style="background: #2980b9;"></body>
+<body style="background: #16a085;"></body>
 <div style="color: #e4e4e4;
     text-align:  center;
     height: 90px;
@@ -11,6 +11,6 @@
   <h1>Hello, World!</h1>
 
   <h2>
-    Application Version: V1
+    Application Version: V2
   </h2>
 </div>
